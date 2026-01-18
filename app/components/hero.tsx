@@ -6,7 +6,7 @@ import Button from "./button";
 
 interface HeroProps {
     image: string;
-    heading: string;
+    heading: string | React.ReactNode;
     description: string;
     buttonText?: string;
     onButtonClick?: () => void;
