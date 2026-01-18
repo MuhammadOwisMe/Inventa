@@ -17,10 +17,10 @@ export default function Navbar() {
                         <Image
                             src="/logo.svg"
                             alt="Inventa Logo"
-                            width={120}
-                            height={32}
+                            width={150}
+                            height={40}
                             priority
-                            className="h-8 w-auto"
+                            className="h-10 w-auto"
                         />
                     </Link>
                 </div>

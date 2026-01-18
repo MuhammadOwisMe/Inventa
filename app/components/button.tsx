@@ -10,7 +10,7 @@ export default function Button({ text, onClick }: ButtonProps) {
     return (
         <button
             className="
-        bg-[#1AE506] 
+        bg-[#1AE5D6] 
         text-white 
         px-8 
         py-2 
